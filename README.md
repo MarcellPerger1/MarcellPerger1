@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarcellPerger1
 - 👀 I’m interested in programming, maths and chess ♟
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: marcell.perger.1@gmail.com
 - StackOverflow: [MarcellPerger](https://stackoverflow.com/users/19115554/marcellperger)
