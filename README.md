@@ -12,8 +12,8 @@ Programming languages I know (in roughly decreasing order of familiarity):
   - Node.js
   - Svelte (currently learning)
   - Vue (well at least I knew some a year ago)
-- HTML/CSS
-- Java (if I really have to)
+- HTML & CSS
+- Java
 - C (though I haven't written C code in ages)
 - C++
 - A bit of Rust 🦀 (the elegant higher-level side, not really the lower-level lifetimes stuff)
@@ -27,6 +27,7 @@ Other tools/skills I know/use:
   - Github actions
 - Googling/Google-fu (if I don't know something I Google it)
 - Markdown
+- LaTeX (mainly for displaying equations)
 - Tools from NPM I use:
   - ESLint
   - Jest
@@ -37,6 +38,7 @@ Other tools/skills I know/use:
   - Pycharm
   - VSCode
   - IntelliJ IDEA
+  - Visual Studio
   - Visual Studio
 
 I should really create a blog or something...
