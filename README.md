@@ -40,6 +40,7 @@ Other tools/skills I know/use:
   - IntelliJ IDEA
   - Visual Studio
   - CLion
+- Part-time (dual-boot) Arch (EndeavourOS) user 
 
 Things I want to learn:
 - Kotlin (i.e. cool Java++)
