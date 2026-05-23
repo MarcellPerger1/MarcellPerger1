@@ -4,6 +4,22 @@
 - 📫 How to reach me: marcell.perger.1@gmail.com
 - StackOverflow: [MarcellPerger](https://stackoverflow.com/users/19115554/marcellperger)
 
+My projects:
+- **Adblocker bookmarklet**: It sits in your bookmarks bar, you click on it, it removes the ads - simple!
+- **Minecraft clone** (semi-abandoned): I wanted to learn Javascript, so I made *very* basic Minecraft-style 'game'
+- **Arcanar**: A web implementation of the board game Arcana Rising built using Svelte + Python. Work in progress. Actually decent code quality.
+- Various smaller things including:
+  - **A programming language**: incomplete, work-in-progress language that is compiled to Scratch. Why? Fun.
+  - **Sudoku solver and generator**: not very advanced techniques but creates sudokus that are a little more challenging (around 'hard' on most websites/newspapers)
+  - **Connect 4 bot** (private repo): A bot for connect 4 written in C++ (not great, just standard alpha-beta pruning with a few extra stuff)
+- Tiny things (very little time spent on these):
+  - **Mandelbrot set visualizer**: A hybird Python-Rust Mandelbrot set visualiser
+  - **LMC interpretter**: A collection of interpreters for [Little Man Computer](https://en.wikipedia.org/wiki/Little_Man_Computer) assembly
+  - **Neural network implementation**: A neural network implementation in Rust (based on my previous non-Git one in Python). Made before ChatGPT came out, before AI was hype.
+- Code quality varies massively, from really bad to acceptable (my code quality standards are very high)
+- I can tell how much I've grown as a developer just from looking at my old code and seeing how differently I would do things now
+- Note that some of the above projects are very much ancient (look at the dates on the repo if available) and I would do many things differently in them now.
+
 Programming languages I know (in roughly decreasing order of familiarity):
 - Python 🐍
   - I'm very experienced (over 5 years) with 'vanilla' Python (i.e. when without big frameworks/libraries)
